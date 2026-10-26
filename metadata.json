@@ -1,0 +1,6 @@
+{
+  "name": "TransLedger — Transportation Vendor Dues Live Dashboard",
+  "description": "Live bilingual (Arabic/English) financial analytics dashboard for transportation vendor dues, featuring 30-second Google Sheets synchronization, bi-monthly (2-to-12 month) dues matrices, truck type breakdowns, and custom CSV exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
